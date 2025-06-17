@@ -1,0 +1,30 @@
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\Registration System.exe
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\Registration System.deps.json
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\Registration System.runtimeconfig.json
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\Registration System.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\Registration System.pdb
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration_System.frmRegistration.resources
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration_System.FormLogin.resources
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration_System.Properties.Resources.resources
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration System.csproj.GenerateResource.cache
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration System.AssemblyInfoInputs.cache
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration System.AssemblyInfo.cs
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration System.csproj.CoreCompileInputs.cache
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration System.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\refint\Registration System.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration System.pdb
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration System.genruntimeconfig.cache
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\ref\Registration System.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration System.csproj.AssemblyReference.cache
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration_System.SmajorCombox.resources
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registration_System.StudentINFO.resources
+C:\Users\Dumangas Leo Isidro\source\repos\Registration System\Registration System\obj\Debug\net8.0-windows\Registra.D102AAF8.Up2Date
